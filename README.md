@@ -83,7 +83,7 @@ avocado-analysis/
 ## 👨‍💻 Author
 
 **Alejandro Gil Partida**  
-Data Analyst
+Data Analyst | Business Intelligence | Power BI | SQL | Python | R | I transform complex data into clear solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/agilpartida) 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/agilpartida)
