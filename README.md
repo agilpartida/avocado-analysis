@@ -34,19 +34,26 @@ This project presents a comprehensive data analysis of avocado sales and pricing
 
 ## 📂 Repository Structure
 
+```text
 avocado-analysis/
 │
 ├── data/
-│ └── avocado-updated-2020.csv
+│   └── avocado-updated-2020.csv       # Updated dataset containing avocado price data
 │
 ├── scripts/
-│ └── avocado-analysis.R
+│   └── avocado-analysis.R             # Main R script for data analysis
 │
 ├── imgs/
-│ ├── boxplot_precios.png
-│ └── series_temporales.png
+│   ├── albany_organic_price_forecast_3months.png    # Forecast plot for organic avocado prices in Albany
+│   ├── albany_organic_prices_decomposition.png      # Time series decomposition of organic prices
+│   ├── average_price_boxplot.png                    # Boxplot showing average prices
+│   ├── boxplot_precios.png                          # Boxplot visualizing price distribution
+│   ├── price_by_type_boxplot.png                    # Boxplot comparing prices by type
+│   ├── series_temporales.png                        # Time series plot of avocado prices
+│   └── total_volume_boxplot.png                     # Boxplot of total avocado volume sold
 │
-└── README.md
+└── README.md                          # Project documentation
+```
 
 ---
 
@@ -54,7 +61,7 @@ avocado-analysis/
 
 12-week price forecast for organic avocados in Albany indicates **market stability** despite typical volatility.
 
-![Time Series Forecast](visuals/time_series.png)
+![Time Series Forecast](imgs/albany_organic_price_forecast_3months.png)
 
 ---
 
